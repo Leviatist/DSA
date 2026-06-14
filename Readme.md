@@ -2,8 +2,8 @@
 # 目录简介
 总体目前分了两个目录。
 1. LTCRC
-我的力扣刷题记录，会阐述思路，优化
-2. ALG
+我的力扣刷题记录
+1. ALG
 写一些基础的算法实现 
 # counter
 |easy|med|hard|all|time      |
